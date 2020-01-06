@@ -1,0 +1,88 @@
+html {
+	height: 100%;
+}
+
+body {
+	background: url(../images/imagecard.png);
+	background-position: center;
+	background-size: cover;
+	font-family: 'Lato', sans-serif;
+}
+
+.price h1 {
+	font-size: 4em;
+	color: red;
+	text-transform: capitalize;
+	text-align: center;
+}
+
+.col1 {
+	background-color: white;
+	width: 40%;
+	padding: 12px !important;
+}
+
+th.col1 {
+	background-color: #fff;
+	text-transform: uppercase;
+	padding: 30px 10px !important;
+	font-size: 1.5em;
+	color: black;
+}
+
+.col2 {
+	background-color: green;
+	text-align: center;
+	color: white;
+}
+
+th.col2 {
+	padding: 30px 10px !important;
+	font-size: 1.5em;
+	text-transform: uppercase;
+}
+
+.col3 {
+	background-color: blue;
+	text-align: center;
+	color: white;
+}
+
+th.col3{
+	padding: 30px 10px !important;
+	font-size: 1.5em;
+	text-transform: uppercase;
+}
+
+.col4 {
+	background-color: orange;
+	text-align: center;
+	color: white;
+}
+
+th.col4 {
+	padding: 30px 10px !important;
+	font-size: 1.5em;
+	text-transform: uppercase;
+}
+
+.btn {
+	border: 2px solid white;
+}
+
+.btn-back {
+	border: 1px solid white;
+	padding: 10px 10px 10px 10px;
+	font-size: 30px;
+	font-family: 'Lato', sans-serif;
+	color: white;
+	float: left;
+	margin-top: 19%;
+}
+
+.btn-back:hover {
+	color: white;
+}
+
+
+

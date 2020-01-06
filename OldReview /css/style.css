@@ -1,0 +1,40 @@
+body {
+	font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+	color: black;
+}
+
+h4 {
+	color: black;
+}
+
+body {
+	background: #c0c0aa;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #1cefff, #c0c0aa);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #1cefff, #c0c0aa); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.container {
+	border: 4px groove white;
+	float: center;
+	margin-top: 200px;
+}
+
+.btn-outline-dark {
+	padding: 8px 8px 8px 8px;
+	margin-left: 55px;
+	float: right;
+	margin-bottom: 10px;
+}
+
+.btn-outline-dark:hover {
+	color: black;
+	background-color: gold;
+}
+
+<i.fa fa-star {
+	size: 20px;
+}

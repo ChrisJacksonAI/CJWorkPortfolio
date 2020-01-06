@@ -1,0 +1,59 @@
+body {
+	font-family: 'Notable', sans-serif;
+	padding-top: 20px;
+	background-color: black;
+}
+
+.navbar {
+	background-color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: red;
+}
+
+.navbar-default .navbar-brand {
+	color: red;
+}
+
+.jumbotron {
+	background-color: red;
+	color: black;
+	text-align: center;
+
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	color: white;
+}
+
+.thumbnail {
+	width: 100%;
+	height: 200px;
+	overflow: hidden;
+}
+
+img {
+	width: auto;
+	height: auto;
+	padding-bottom: 10px;
+}
+
+.navbar-default .navbar-nav>.active>a {
+	background-color: black;
+	color: red;
+}
+
+.btn-back {
+	border: 1px solid white;
+	padding: 10px 10px 10px 10px;
+	font-size: 30px;
+	font-family: 'Notable', sans-serif;
+	color: white;
+	float: left;
+	margin-top: 5%;
+}
+
+.btn-back:hover {
+	color: white;
+}

@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
+
+.intro {
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	background: url('https://media.gettyimages.com/photos/transporter-bridge-middlesbrough-england-picture-id511876005?s=2048x2048') no-repeat 50% 50%;
+	top: 0;
+	display: table;
+	background-size: cover;
+}
+
+.intro .inner {
+	display: table-cell;
+	vertical-align: middle;
+	width: 50%;
+	max-width: none;
+	float: left;
+	position: absolute;
+	margin-top: 450px;
+}
+
+.content {
+	max-width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+ h1 {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 400%;
+	text-shadow: 0px 0px 300px #000;
+	float: left;
+	text-align: left;
+}
+
+.btn {
+	border-radius: 9px;
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	font-size: 175%;
+	padding: 10px 20px;
+	border:solid white 3px;
+	text-transform: uppercase;
+	text-decoration: none;
+	float: left;
+}
+
+.btn:hover {
+	color: white;
+	background-color: skyblue;
+}
+
+@media screen and (max-width: 768px) {
+	.content h1 {
+		font-size: 250%;
+	}
+	.btn {
+		font-size: 110%;
+		padding:7px 15px;
+	}
+}
+
+.browserphone-iphone {
+	
+	float: right;
+	margin-right: 410px;
+	display: inline;
+	position: relative;
+}
+
+.mask-img {
+	height: 350px;
+	width: 100%;
+}
+
+.footer {
+	text-align: center;
+	font-size: 12px;
+	color: white;
+	margin-top: 900px;
+}
+
+.container {
+	float: right;
+	margin-top: 190px;
+	margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+

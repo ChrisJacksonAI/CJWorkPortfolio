@@ -1,0 +1,40 @@
+html {
+	height:100%;
+}
+
+body {
+	background:url(./images/garagepic.png);
+	background-position: center;
+	background-size: cover;
+}
+
+.center {
+	text-align: center;
+	padding-top: 15%;
+}
+
+h1 {
+	color: gold;
+	font-size: 8em;
+	font-family: 'Righteous', cursive;
+}
+
+h2 {
+	color: gold;
+	font-size: 7em;
+	font-family: 'Righteous', cursive;
+}
+
+.btn-back {
+	border: 1px solid white;
+	padding: 10px 10px 10px 10px;
+	font-size: 30px;
+	font-family: 'PangoLin', cursive;
+	color: white;
+	float: left;
+	margin-top: 6%;
+}
+
+.btn-back:hover {
+	color: white;
+}

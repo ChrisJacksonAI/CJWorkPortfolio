@@ -1,0 +1,89 @@
+h1 {
+	color: black;
+}
+
+h4 {
+	color: black;
+}
+
+body {
+	/*background: #c0c0aa;  /* fallback for old browsers */
+	/*background: -webkit-linear-gradient(to right, #1cefff, #c0c0aa);  /* Chrome 10-25, Safari 5.1-6 */
+	/*background: linear-gradient(to right, #1cefff, #c0c0aa); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background-color: white;
+}
+
+.container {
+	border: 2px groove black;
+	float: center;
+	margin-top: 200px;
+	background-color: lightgrey;
+	margin-bottom: 90px;
+}
+
+<i.fa fa-star {
+	size: 20px;
+}
+
+.header {
+	padding-bottom: 20px;
+	padding-top: 20px;
+	border-left: 8px solid #318eae;
+}
+
+.name {
+	padding-left: 22px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-transform: bold;
+}
+
+.star {
+	float: right;
+	color: #318eae;
+	margin-left: 220px;
+}
+
+.title {
+	font-size: 26px;
+}
+
+.content {
+	padding-left: 8px;
+	min-height: 300px;
+}
+
+.date {
+	padding-left: 8px;
+}
+
+.btn-outline-info {
+	margin-bottom: 15px;
+	padding: 12px 12px 12px 12px;
+	color: #318aea;
+	margin-left: 900px;
+}
+
+.thumbnail {
+	height: 45px;
+	width: 30%;
+	margin-left: 18px;
+}
+
+.btn-back {
+	border: 1px solid white;
+	padding: 10px 10px 10px 10px;
+	font-size: 30px;
+	color: black;
+	float: left;
+	margin-top: 5%;
+}
+
+.btn-back:hover {
+	color: black;
+}
+
+
+
+
+
